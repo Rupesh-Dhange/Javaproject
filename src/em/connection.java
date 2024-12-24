@@ -12,6 +12,7 @@ public class connection {
 	} catch (ClassNotFoundException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
+		System.out.println("mck");
 	}
 	 Connection cn=null;
 	   try {
